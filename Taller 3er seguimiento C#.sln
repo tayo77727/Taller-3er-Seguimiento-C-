@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto1", "Punto1\Punto1.csproj", "{B44B37F0-D918-47A2-B36A-32BC2D13EDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto2", "Punto2\Punto2.csproj", "{BDA0F867-C881-4AA8-A225-7371937354F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto3", "Punto3\Punto3.csproj", "{EA294807-3CE6-497E-B632-6DC5E67AB447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto4", "Punto4\Punto4.csproj", "{54D046B6-43A7-4F89-8AB0-D1FD994A9F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto5", "Punto5\Punto5.csproj", "{8E5D1416-730D-4ED9-ADFE-3E342130EFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto6", "Punto6\Punto6.csproj", "{803EBE68-CA85-4E63-A450-B9A996B0766D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto7", "Punto7\Punto7.csproj", "{6DF7DE05-0EEF-4929-BAA2-D8F57351C31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto8", "Punto8\Punto8.csproj", "{DEE42F19-26C4-4AB9-992F-7AF25F5F0913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44B37F0-D918-47A2-B36A-32BC2D13EDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44B37F0-D918-47A2-B36A-32BC2D13EDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44B37F0-D918-47A2-B36A-32BC2D13EDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44B37F0-D918-47A2-B36A-32BC2D13EDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA0F867-C881-4AA8-A225-7371937354F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA0F867-C881-4AA8-A225-7371937354F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA0F867-C881-4AA8-A225-7371937354F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA0F867-C881-4AA8-A225-7371937354F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA294807-3CE6-497E-B632-6DC5E67AB447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA294807-3CE6-497E-B632-6DC5E67AB447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA294807-3CE6-497E-B632-6DC5E67AB447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA294807-3CE6-497E-B632-6DC5E67AB447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D046B6-43A7-4F89-8AB0-D1FD994A9F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D046B6-43A7-4F89-8AB0-D1FD994A9F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D046B6-43A7-4F89-8AB0-D1FD994A9F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D046B6-43A7-4F89-8AB0-D1FD994A9F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5D1416-730D-4ED9-ADFE-3E342130EFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5D1416-730D-4ED9-ADFE-3E342130EFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5D1416-730D-4ED9-ADFE-3E342130EFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5D1416-730D-4ED9-ADFE-3E342130EFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803EBE68-CA85-4E63-A450-B9A996B0766D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803EBE68-CA85-4E63-A450-B9A996B0766D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803EBE68-CA85-4E63-A450-B9A996B0766D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803EBE68-CA85-4E63-A450-B9A996B0766D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF7DE05-0EEF-4929-BAA2-D8F57351C31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF7DE05-0EEF-4929-BAA2-D8F57351C31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF7DE05-0EEF-4929-BAA2-D8F57351C31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF7DE05-0EEF-4929-BAA2-D8F57351C31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE42F19-26C4-4AB9-992F-7AF25F5F0913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE42F19-26C4-4AB9-992F-7AF25F5F0913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE42F19-26C4-4AB9-992F-7AF25F5F0913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE42F19-26C4-4AB9-992F-7AF25F5F0913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

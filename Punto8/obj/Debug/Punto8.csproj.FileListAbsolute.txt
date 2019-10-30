@@ -1,0 +1,6 @@
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 3er seguimiento C#\Punto8\obj\Debug\Punto8.csprojResolveAssemblyReference.cache
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 3er seguimiento C#\Punto8\bin\Debug\Punto8.exe.config
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 3er seguimiento C#\Punto8\bin\Debug\Punto8.exe
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 3er seguimiento C#\Punto8\bin\Debug\Punto8.pdb
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 3er seguimiento C#\Punto8\obj\Debug\Punto8.exe
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 3er seguimiento C#\Punto8\obj\Debug\Punto8.pdb
